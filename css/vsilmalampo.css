@@ -443,7 +443,7 @@ strong {
   grid-column-gap: 30px;
   grid-row-gap: 60px;
   grid-template-rows: auto;
-  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr;
 }
 
 .feature-block-2 {
@@ -944,7 +944,7 @@ strong {
 }
 
 .service-icon {
-  width: 35px;
+  width: 33px;
 }
 
 .privacy-policy-wrapper {
